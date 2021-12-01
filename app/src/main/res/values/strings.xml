@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">loginapp</string>
+    <string name="textview">0</string>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string name="cus_spinner">Learn customspinner</string>
+    <string name="cus_listview">Custom listview</string>
+    <string name="web_view">Web View</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="action_search">search</string>
+    <string name="search">search</string>
+    <string name="copy">copy</string>
+    <string name="paste">paste</string>
+    <string name="action">Action</string>
+    <string name="john">John</string>
+    <string name="call">Call</string>
+    <string name="chat">Chat</string>
+    <string name="please_enter_the_phone_number_to_continue">Please enter the phone Number to Continue</string>
+    <string name="nuber">+91xxxxxxxxxx</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="otp_verificatrion">OTP Verification</string>
+    <string name="please_enter_your_otp">Please enter your otp</string>
+    <string name="didn_t_get_otp_resend">Didn\'t get OTP? <b>Resend</b></string>
+    <string name="submit1">Submit</string>
+
+</resources>
